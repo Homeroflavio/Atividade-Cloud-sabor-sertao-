@@ -5,8 +5,7 @@ fictícia de lanchonetes **Sabor do Sertão**, com lojas em Recife, Olinda, Caru
 Petrolina e Garanhuns. O painel responde: **onde**, **o quê**, **quando** e
 **como** os clientes pagam.
 
-**Autores:** _(nome da dupla aqui)_
-**Painel publicado (opcional):** _(link do Streamlit Community Cloud aqui)_
+**Autores:** Homero Flávio - Joelson José
 
 ---
 
