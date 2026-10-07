@@ -1,0 +1,5 @@
+@"
+__pycache__/
+.venv/
+*.csv
+"@ | Out-File -Encoding utf8 .gitignore
