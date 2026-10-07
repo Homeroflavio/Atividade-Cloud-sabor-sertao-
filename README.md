@@ -12,16 +12,13 @@ Petrolina e Garanhuns. O painel responde: **onde**, **o quê**, **quando** e
 
 ## 📸 Print do painel
 
-<!-- 👇 SUBSTITUA ESTA ÁREA PELO PRINT DO PAINEL FUNCIONANDO 👇
-     1. Rode o painel e tire o print da tela inteira.
-     2. Salve como print_painel.png na raiz do repositório.
-     3. A linha abaixo já aponta para esse arquivo. -->
-
-![Print do painel funcionando](print_painel.png)
-
-> ⚠️ **COLE AQUI O PRINT DO PAINEL** (apague este aviso depois de subir o `print_painel.png`).
+<img width="1318" height="647" alt="image" src="https://github.com/user-attachments/assets/c3c82eb6-f7e6-4fea-9484-37ed8e611e08" />
 
 ---
+
+<img width="1316" height="645" alt="image" src="https://github.com/user-attachments/assets/252e0202-36af-408f-bafd-0de94e5d59e8" />
+
+
 
 ## ✅ O que o painel tem
 
@@ -72,5 +69,5 @@ estiver na mesma pasta do `app.py`, ele é carregado automaticamente.
 ├── gerar_dados.py        # gera o CSV de vendas (semente fixa 42)
 ├── requirements.txt      # dependências
 ├── README.md
-└── print_painel.png      # print do painel (adicionar)
+└── print_painel.png      # print do painel 
 ```
